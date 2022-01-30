@@ -4,5 +4,5 @@ tags={
 }
 name="Planetary Preference Plus - Planetary Diversity Patch"
 picture="thumbnail.png"
-supported_version="3.1.2"
+supported_version="3.2.2"
 remote_file_id="2625942845"
